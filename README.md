@@ -30,4 +30,4 @@ Started as practice. Now I use it every day.
 
 > *"Push code. Let people see the mess."*
 >
-> Journey documented by **[@kynx-iv](https://github.com/kynx-iv)**
+> Documented by **[Kingsley Eze](https://github.com/kynx-iv)**
